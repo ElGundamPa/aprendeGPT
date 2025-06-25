@@ -1,0 +1,2 @@
+# aprendeGPT
+Entrena con ChatGPT
